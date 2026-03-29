@@ -1,0 +1,21 @@
+Ticket_ID,Issue_Category,Priority,Resolution_Hours,Department,Status
+1,Password Reset,Low,1,HR,Closed
+2,Network Issue,High,5,Finance,Closed
+3,Software Install,Medium,2,Marketing,Closed
+4,Email Problem,Medium,3,Sales,Closed
+5,Printer Issue,Low,1,HR,Closed
+6,Network Issue,High,6,IT,Closed
+7,Password Reset,Low,1,Finance,Closed
+8,Hardware Issue,High,8,Operations,Closed
+9,Software Install,Medium,2,IT,Closed
+10,Email Problem,Medium,4,Marketing,Closed
+11,Password Reset,Low,1,Sales,Closed
+12,Network Issue,High,7,Operations,Closed
+13,Printer Issue,Low,2,Finance,Closed
+14,Hardware Issue,High,9,IT,Closed
+15,Software Install,Medium,3,HR,Closed
+16,Email Problem,Medium,4,Operations,Closed
+17,Password Reset,Low,1,Marketing,Closed
+18,Network Issue,High,6,Sales,Closed
+19,Hardware Issue,High,10,Finance,Closed
+20,Printer Issue,Low,2,IT,Closed
